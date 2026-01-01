@@ -33,15 +33,16 @@ This project is a **Next Word Prediction system** built using **Deep Learning (L
 ---
 
 ## 📂 Project Structure
-.
+Next-Word-Predictor/
 ├── app.py
 ├── models/
-│ ├── next_word_LSTM.h5
-│ └── next_word_GRU.h5
+│   ├── next_word_LSTM.h5
+│   └── next_word_GRU.h5
 ├── tokenizers/
-│ └── tokenizer.pickle
+│   └── tokenizer.pickle
 ├── requirements.txt
 └── README.md
+
 
 ---
 
